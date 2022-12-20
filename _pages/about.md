@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "I am a comutational engineer interested in modeling how energy storage systems interact with the world around them."
+title: "I am a computational engineer interested in modeling how energy storage systems interact with the world around them."
 excerpt: "About me"
 author_profile: true
 redirect_from: 
